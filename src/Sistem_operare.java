@@ -1,2 +1,1 @@
-package PACKAGE_NAME;public class Sistem_operare {
-}
+public enum Sistem_operare {WINDOWS,LINUX}

@@ -1,2 +1,1 @@
-package PACKAGE_NAME;public class Tip_produs {
-}
+public enum Tip_produs {IMPRIMANTA,COPIATOR,SISTEM_DE_CALCUL}
