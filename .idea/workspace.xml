@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2eaffba4-c5ad-4d53-9773-51978b4a8135" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/electronice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/electronice.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Copiator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Copiator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Echipament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Echipament.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Imprimanta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Imprimanta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemDeCalcul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemDeCalcul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sistem_operare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistem_operare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tip_produs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tip_produs.java" afterDir="false" />
-    </list>
+    <list default="true" id="2eaffba4-c5ad-4d53-9773-51978b4a8135" name="Changes" comment="LAB4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +35,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,6 +48,18 @@
       <option name="presentableId" value="Default" />
       <updated>1697465342468</updated>
     </task>
+    <task id="LOCAL-00001" summary="LAB4">
+      <created>1697472275866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697472275866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LAB4" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAB4" />
   </component>
 </project>
